@@ -1,0 +1,46 @@
+.parent:has(.hoverToShow:hover) ~ .tooltip {
+  transition: 0.3s linear all;
+  opacity: 1;
+  display: block;
+}
+
+@keyframes bounceInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-10%) scale(0.8);
+  }
+  60% {
+    opacity: 1;
+    transform: translateY(5%) scale(1.05);
+  }
+  80% {
+    transform: translateY(0%) scale(0.97);
+  }
+  100% {
+    transform: translateY(0%) scale(1);
+  }
+}
+
+/* Utility class you can apply to any element */
+.bounce-in-down {
+  animation: bounceInDown 0.45s ease-out forwards;
+  /* optional: keep the element above neighbors while animating */
+  will-change: transform, opacity;
+}
+
+/* 
+.tooltip::before {
+  content: "";
+  position: absolute;
+  top: -6px; 
+  left: 50%; 
+  transform: translateX(-100%);
+  width: 0;
+  height: 0;
+
+  
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-bottom: 6px solid #374151; 
+}
+ */

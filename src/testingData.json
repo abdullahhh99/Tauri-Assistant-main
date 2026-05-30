@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "The Witcher 1: Assassin of Kings",
+    "imgUrl": "https://sm.ign.com/ign_ap/cover/t/the-witche/the-witcher-2-assassins-of-kings-enhanced-edition_y4jk.jpg",
+    "platforms": ["PC", "PS5", "XBOX", "Nintendo"],
+    "releaseDate": "2/6/2024"
+  },
+  {
+    "id": 2,
+    "title": "The Witcher 2: Assassin of Kings",
+    "imgUrl": "https://i.pinimg.com/736x/d5/54/e8/d554e8ab32024766ba1d2eb1c65abfdd.jpg",
+    "platforms": ["PC", "PS5", "XBOX", "Nintendo"],
+    "releaseDate": "2/6/2024"
+  },
+  {
+    "id": 3,
+    "title": "The Witcher 3: Assassin of Kings and bawas",
+    "imgUrl": "https://sm.ign.com/ign_ap/cover/t/the-witche/the-witcher-2-assassins-of-kings-enhanced-edition_y4jk.jpg",
+    "platforms": ["PC", "PS5", "XBOX", "Nintendo"],
+    "releaseDate": "2/6/2024"
+  },
+  {
+    "id": 4,
+    "title": "The Witcher 3: Assassin of Kings and bawas",
+    "imgUrl": "https://sm.ign.com/ign_ap/cover/t/the-witche/the-witcher-2-assassins-of-kings-enhanced-edition_y4jk.jpg",
+    "platforms": ["PC", "PS5", "XBOX", "Nintendo"],
+    "releaseDate": "2/6/2024"
+  }
+]
