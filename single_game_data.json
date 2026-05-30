@@ -1,0 +1,487 @@
+{
+  "id": 4291,
+  "slug": "counter-strike-global-offensive",
+  "name": "Counter-Strike: Global Offensive",
+  "name_original": "Counter-Strike: Global Offensive",
+  "description": "<p>Counter-Strike is a multiplayer phenomenon in its simplicity. No complicated narratives to explain the source of the conflict, no futuristic and alien threats, but counter-terrorists against terrorists. Arena shooter at its core, CS:GO provides you with various methods of disposing enemies and reliant on cooperation within the team. During the round of the classical clash mode, you will gradually receive currency to purchase different equipment. Each player can carry a primary weapon, secondary pistol, knife and a set of grenades, which all can change the battle if wielded by the skilled player. <br />\nObjectives are clear and vary from map to map, from game mode to game mode. Stop the terrorists from planting explosives, stop the counter-terrorist from retrieving the hostages, kill everyone who isn’t you and just perform the best with.<br />\nCS:GO is one of the major cybersport discipline, which makes playing it more exciting to some players. Aside from purchasing the game, CS:GO is infamous for its loot case system, that requires players to purchase keys, in order to open said cases. Customization items consist of weapon skins, weapon stickers, and sprays that do not affect gameplay and have purely visual value to the player.</p>",
+  "metacritic": 81,
+  "metacritic_platforms": [
+    {
+      "metascore": 79,
+      "url": "https://www.metacritic.com/game/xbox-360/counter-strike-global-offensive",
+      "platform": {
+        "platform": 14,
+        "name": "Xbox 360",
+        "slug": "xbox360"
+      }
+    },
+    {
+      "metascore": 80,
+      "url": "https://www.metacritic.com/game/playstation-3/counter-strike-global-offensive",
+      "platform": {
+        "platform": 16,
+        "name": "PlayStation 3",
+        "slug": "playstation3"
+      }
+    },
+    {
+      "metascore": 83,
+      "url": "https://www.metacritic.com/game/pc/counter-strike-global-offensive",
+      "platform": {
+        "platform": 4,
+        "name": "PC",
+        "slug": "pc"
+      }
+    }
+  ],
+  "released": "2012-08-21",
+  "tba": false,
+  "updated": "2025-06-24T14:48:01",
+  "background_image": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+  "background_image_additional": "https://media.rawg.io/media/screenshots/f40/f40253f0068ce2f1be2b3dc630c2cf0f.jpg",
+  "website": "http://blog.counter-strike.net/",
+  "rating": 3.57,
+  "rating_top": 4,
+  "ratings": [
+    {
+      "id": 4,
+      "title": "recommended",
+      "count": 1688,
+      "percent": 46.62
+    },
+    {
+      "id": 3,
+      "title": "meh",
+      "count": 938,
+      "percent": 25.9
+    },
+    {
+      "id": 5,
+      "title": "exceptional",
+      "count": 588,
+      "percent": 16.24
+    },
+    {
+      "id": 1,
+      "title": "skip",
+      "count": 407,
+      "percent": 11.24
+    }
+  ],
+  "reactions": {
+    "1": 5,
+    "2": 3,
+    "3": 9,
+    "4": 10,
+    "5": 3,
+    "6": 4,
+    "7": 3,
+    "8": 13,
+    "9": 2,
+    "10": 2,
+    "11": 2,
+    "12": 2,
+    "13": 1,
+    "15": 2,
+    "16": 2,
+    "17": 1,
+    "20": 1
+  },
+  "added": 18278,
+  "added_by_status": {
+    "yet": 267,
+    "owned": 14088,
+    "beaten": 1113,
+    "toplay": 79,
+    "dropped": 2100,
+    "playing": 631
+  },
+  "playtime": 64,
+  "screenshots_count": 22,
+  "movies_count": 0,
+  "creators_count": 47,
+  "achievements_count": 179,
+  "parent_achievements_count": 167,
+  "reddit_url": "https://www.reddit.com/r/GlobalOffensive/",
+  "reddit_name": "",
+  "reddit_description": "",
+  "reddit_logo": "",
+  "reddit_count": 11741,
+  "twitch_count": 100,
+  "youtube_count": 1000000,
+  "reviews_text_count": 38,
+  "ratings_count": 3583,
+  "suggestions_count": 602,
+  "alternative_names": ["CS GO", "CS: GO", "CS:GO", "cs:go", "csgo"],
+  "metacritic_url": "https://www.metacritic.com/game/pc/counter-strike-global-offensive",
+  "parents_count": 0,
+  "additions_count": 1,
+  "game_series_count": 5,
+  "user_game": null,
+  "reviews_count": 3621,
+  "saturated_color": "0f0f0f",
+  "dominant_color": "0f0f0f",
+  "parent_platforms": [
+    {
+      "platform": {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      }
+    },
+    {
+      "platform": {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      }
+    },
+    {
+      "platform": {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      }
+    },
+    {
+      "platform": {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      }
+    }
+  ],
+  "platforms": [
+    {
+      "platform": {
+        "id": 4,
+        "name": "PC",
+        "slug": "pc",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 550884,
+        "image_background": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg"
+      },
+      "released_at": "2012-08-21",
+      "requirements": {
+        "minimum": "Minimum:\nOS: Windows® 7/Vista/XP\nProcessor: Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better\nMemory: 2 GB RAM\nGraphics: Video card must be 256 MB or more and should be a DirectX 9-compatible with support for Pixel Shader 3.0\nDirectX: Version 9.0c\nStorage: 15 GB available space"
+      }
+    },
+    {
+      "platform": {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 79192,
+        "image_background": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+      },
+      "released_at": "2012-08-21",
+      "requirements": {}
+    },
+    {
+      "platform": {
+        "id": 14,
+        "name": "Xbox 360",
+        "slug": "xbox360",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 2805,
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+      },
+      "released_at": "2012-08-21",
+      "requirements": {}
+    },
+    {
+      "platform": {
+        "id": 16,
+        "name": "PlayStation 3",
+        "slug": "playstation3",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 3166,
+        "image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+      },
+      "released_at": "2012-08-21",
+      "requirements": {}
+    }
+  ],
+  "stores": [
+    {
+      "id": 4619,
+      "url": "",
+      "store": {
+        "id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "games_count": 8052,
+        "image_background": "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg"
+      }
+    },
+    {
+      "id": 11489,
+      "url": "",
+      "store": {
+        "id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "games_count": 113812,
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+      }
+    },
+    {
+      "id": 49169,
+      "url": "",
+      "store": {
+        "id": 7,
+        "name": "Xbox 360 Store",
+        "slug": "xbox360",
+        "domain": "marketplace.xbox.com",
+        "games_count": 1915,
+        "image_background": "https://media.rawg.io/media/games/995/9951d9d55323d08967640f7b9ab3e342.jpg"
+      }
+    }
+  ],
+  "developers": [
+    {
+      "id": 1612,
+      "name": "Valve Software",
+      "slug": "valve-software",
+      "games_count": 44,
+      "image_background": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
+    },
+    {
+      "id": 3900,
+      "name": "Hidden Path Entertainment",
+      "slug": "hidden-path-entertainment",
+      "games_count": 8,
+      "image_background": "https://media.rawg.io/media/screenshots/dc4/dc4ff84b373470bcb14c6e285a196401.jpg"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Shooter",
+      "slug": "shooter",
+      "games_count": 59575,
+      "image_background": "https://media.rawg.io/media/games/b49/b4912b5dbfc7ed8927b65f05b8507f6c.jpg"
+    }
+  ],
+  "tags": [
+    {
+      "id": 40847,
+      "name": "Steam Achievements",
+      "slug": "steam-achievements",
+      "language": "eng",
+      "games_count": 46812,
+      "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Multiplayer",
+      "slug": "multiplayer",
+      "language": "eng",
+      "games_count": 41044,
+      "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+    },
+    {
+      "id": 40836,
+      "name": "Full controller support",
+      "slug": "full-controller-support",
+      "language": "eng",
+      "games_count": 22038,
+      "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+    },
+    {
+      "id": 7808,
+      "name": "steam-trading-cards",
+      "slug": "steam-trading-cards",
+      "language": "eng",
+      "games_count": 7568,
+      "image_background": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Co-op",
+      "slug": "co-op",
+      "language": "eng",
+      "games_count": 13446,
+      "image_background": "https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg"
+    },
+    {
+      "id": 411,
+      "name": "cooperative",
+      "slug": "cooperative",
+      "language": "eng",
+      "games_count": 6053,
+      "image_background": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
+    },
+    {
+      "id": 8,
+      "name": "First-Person",
+      "slug": "first-person",
+      "language": "eng",
+      "games_count": 35472,
+      "image_background": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
+    },
+    {
+      "id": 30,
+      "name": "FPS",
+      "slug": "fps",
+      "language": "eng",
+      "games_count": 14439,
+      "image_background": "https://media.rawg.io/media/games/1bd/1bd2657b81eb0c99338120ad444b24ff.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Online Co-Op",
+      "slug": "online-co-op",
+      "language": "eng",
+      "games_count": 6962,
+      "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+    },
+    {
+      "id": 80,
+      "name": "Tactical",
+      "slug": "tactical",
+      "language": "eng",
+      "games_count": 6103,
+      "image_background": "https://media.rawg.io/media/games/7ac/7aca7ccf0e70cd0974cb899ab9e5158e.jpg"
+    },
+    {
+      "id": 11669,
+      "name": "stats",
+      "slug": "stats",
+      "language": "eng",
+      "games_count": 5608,
+      "image_background": "https://media.rawg.io/media/games/806/8060a7663364ac23e15480728938d6f3.jpg"
+    },
+    {
+      "id": 40852,
+      "name": "Steam Workshop",
+      "slug": "steam-workshop",
+      "language": "eng",
+      "games_count": 1684,
+      "image_background": "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg"
+    },
+    {
+      "id": 157,
+      "name": "PvP",
+      "slug": "pvp",
+      "language": "eng",
+      "games_count": 11143,
+      "image_background": "https://media.rawg.io/media/games/e1f/e1ffbeb1bac25b19749ad285ca29e158.jpg"
+    },
+    {
+      "id": 62,
+      "name": "Moddable",
+      "slug": "moddable",
+      "language": "eng",
+      "games_count": 1064,
+      "image_background": "https://media.rawg.io/media/games/a3c/a3c529a12c896c0ef02db5b4741de2ba.jpg"
+    },
+    {
+      "id": 70,
+      "name": "War",
+      "slug": "war",
+      "language": "eng",
+      "games_count": 9858,
+      "image_background": "https://media.rawg.io/media/games/998/9980c4296f311d8bcc5b451ca51e4fe1.jpg"
+    },
+    {
+      "id": 40837,
+      "name": "In-App Purchases",
+      "slug": "in-app-purchases",
+      "language": "eng",
+      "games_count": 3164,
+      "image_background": "https://media.rawg.io/media/screenshots/54f/54fcf1a626faa92afa3f5d2834dbc5ce.jpg"
+    },
+    {
+      "id": 77,
+      "name": "Realistic",
+      "slug": "realistic",
+      "language": "eng",
+      "games_count": 8096,
+      "image_background": "https://media.rawg.io/media/games/e44/e445335e611b4ccf03af71fffcbd30a4.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Team-Based",
+      "slug": "team-based",
+      "language": "eng",
+      "games_count": 1924,
+      "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+    },
+    {
+      "id": 131,
+      "name": "Fast-Paced",
+      "slug": "fast-paced",
+      "language": "eng",
+      "games_count": 10716,
+      "image_background": "https://media.rawg.io/media/games/bbf/bbf8d74ab64440ad76294cff2f4d9cfa.jpg"
+    },
+    {
+      "id": 81,
+      "name": "Military",
+      "slug": "military",
+      "language": "eng",
+      "games_count": 2323,
+      "image_background": "https://media.rawg.io/media/games/109/10956e4561064fc4f1dda0baa540735e.jpg"
+    },
+    {
+      "id": 170,
+      "name": "Competitive",
+      "slug": "competitive",
+      "language": "eng",
+      "games_count": 1251,
+      "image_background": "https://media.rawg.io/media/games/1a1/1a17e9b6286edb7e1f1e510110ccb0c0.jpg"
+    },
+    {
+      "id": 40856,
+      "name": "Valve Anti-Cheat enabled",
+      "slug": "valve-anti-cheat-enabled",
+      "language": "eng",
+      "games_count": 105,
+      "image_background": "https://media.rawg.io/media/games/78d/78dfae12fb8c5b16cd78648553071e0a.jpg"
+    },
+    {
+      "id": 73,
+      "name": "e-sports",
+      "slug": "e-sports",
+      "language": "eng",
+      "games_count": 80,
+      "image_background": "https://media.rawg.io/media/games/cc7/cc77035eb972f179f5090ee2a0fabd99.jpg"
+    },
+    {
+      "id": 245,
+      "name": "Trading",
+      "slug": "trading",
+      "language": "eng",
+      "games_count": 1372,
+      "image_background": "https://media.rawg.io/media/screenshots/9cc/9cc770fbf82183b1158ed4d3ca5ed828.jpg"
+    }
+  ],
+  "publishers": [
+    {
+      "id": 3399,
+      "name": "Valve",
+      "slug": "valve",
+      "games_count": 48,
+      "image_background": "https://media.rawg.io/media/games/66e/66e90c9d7b9a17335b310ceb294e9365.jpg"
+    }
+  ],
+  "esrb_rating": {
+    "id": 4,
+    "name": "Mature",
+    "slug": "mature"
+  },
+  "clip": null,
+  "description_raw": "Counter-Strike is a multiplayer phenomenon in its simplicity. No complicated narratives to explain the source of the conflict, no futuristic and alien threats, but counter-terrorists against terrorists. Arena shooter at its core, CS:GO provides you with various methods of disposing enemies and reliant on cooperation within the team. During the round of the classical clash mode, you will gradually receive currency to purchase different equipment. Each player can carry a primary weapon, secondary pistol, knife and a set of grenades, which all can change the battle if wielded by the skilled player. \r\nObjectives are clear and vary from map to map, from game mode to game mode. Stop the terrorists from planting explosives, stop the counter-terrorist from retrieving the hostages, kill everyone who isn’t you and just perform the best with.\r\nCS:GO is one of the major cybersport discipline, which makes playing it more exciting to some players. Aside from purchasing the game, CS:GO is infamous for its loot case system, that requires players to purchase keys, in order to open said cases. Customization items consist of weapon skins, weapon stickers, and sprays that do not affect gameplay and have purely visual value to the player."
+}
